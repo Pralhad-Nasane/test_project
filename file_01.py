@@ -1,1 +1,1 @@
-print("getting started")  
+print("getting started")
