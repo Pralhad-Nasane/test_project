@@ -1,6 +1,6 @@
 # Things Learn
 
-- How to setup git 
+- How to setup git
 - git push --> means local to remote
 - git commit
 - git pull --> remote to local
